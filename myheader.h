@@ -1,0 +1,10 @@
+#include <string>
+#include <regex>
+#include <cstdlib>
+#include <ctime>
+#include <iomanip>
+#include <fstream>
+#include <windows.h>
+#include <conio.h>
+#include <unistd.h>
+#include <cstdio>
